@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href=" " target="blank"><img align="center" src="https://github.com/timothyegans1/timothyegans1/blob/main/Images/props-halloween-witchs-potion-in" /></a>
 ## 📚 About Me 📚
  🌱 I'm a current student at Texas State University majoring in computer science.
 
