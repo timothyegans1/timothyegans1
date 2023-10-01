@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📚 About Me 📚
+ 🌱 I'm a current student at Texas State University majoring in computer science.
+
+## 💡 Current career interests 💡
+- Software Engineering
+- Game Development
+- Web Development
+- Application Development
+
+## languages and tools I've worked with and still learning
